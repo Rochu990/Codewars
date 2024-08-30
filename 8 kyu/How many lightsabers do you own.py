@@ -1,4 +1,4 @@
-# link: https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
+# url: https://www.codewars.com/kata/51f9d93b4095e0a7200001b8
 
 # Inspired by the development team at Vooza, write the function that
 

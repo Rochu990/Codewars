@@ -1,4 +1,4 @@
-# link: https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
+# url: https://www.codewars.com/kata/57e92e91b63b6cbac20001e5
 
 # The purpose of this kata is to work out just how many bottles of duty free whiskey you would have to buy such that the savings over the normal high street price would effectively cover the cost of your holiday.
 
