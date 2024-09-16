@@ -20,9 +20,10 @@
 #      I
 #       I
 
-def draw_stairs(n):
-    result = ''
-    for num in range(0 , n-1):
-        result += ' ' * num + 'I\n'
-    result +=  ' ' * (n-1) + 'I'
-    return result
+# def draw_stairs(n):
+#     result = ''
+#     for num in range(0 , n-1):
+#         result += ' ' * num + 'I\n'
+#     result +=  ' ' * (n-1) + 'I'
+#     return result
+
